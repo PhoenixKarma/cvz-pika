@@ -12,4 +12,4 @@ function download(filename, text) {
 }
 
 // Start file download.
-download("hello.txt","This is the content of my file :)");
+download("welcome.txt","Thank you for downloading this, this is under construction as for some reason.");
