@@ -1,2 +1,2 @@
 # cvz-pika
-CVZ clienting with uhg stuff 
+cvz cilent with js stuff and javascript.
